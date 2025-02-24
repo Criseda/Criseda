@@ -1,4 +1,4 @@
-<h2 align="left">👋 @Criseda<br>🏫 Studying Computer Science at the University of Manchester</h2>
+<h2 align="left">@Criseda<br>🏫 Studying Computer Science at the University of Manchester</h2>
 
 ###
 
