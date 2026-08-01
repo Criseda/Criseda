@@ -15,6 +15,7 @@
 - 💼 Former Data Science Intern @ [Bitdefender](https://github.com/bitdefender) — NLP, embeddings, uplift modelling, causal inference
 - 🌱 Focused on backend systems, LLM integration, and applied machine learning
 - 📫 laurentiu.cristian.preda@gmail.com
+- 🌐 [criseda.com](https://criseda.com)
 
 <br clear="right"/>
 
