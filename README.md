@@ -5,12 +5,6 @@
   </picture>
 </a>
 
-<p align="center">
-  <a href="https://criseda.com"><img src="https://img.shields.io/badge/criseda.com-D897C4?style=for-the-badge&logo=googlechrome&logoColor=221C22" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/criseda"><img src="https://img.shields.io/badge/LinkedIn-D897C4?style=for-the-badge&logo=linkedin&logoColor=221C22" alt="LinkedIn" /></a>
-  <a href="mailto:laurentiu.cristian.preda@gmail.com"><img src="https://img.shields.io/badge/Email-D897C4?style=for-the-badge&logo=gmail&logoColor=221C22" alt="Email" /></a>
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
