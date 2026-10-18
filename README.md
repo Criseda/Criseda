@@ -1,101 +1,81 @@
-<div align="center">
+<a href="https://criseda.com">
+  <img width="100%" src="assets/header.svg" alt="cristian preda: backend · llms · applied ml" />
+</a>
 
-# Hi, I'm Cristian 👋
-
-### 🎓 CS Graduate @ University of Manchester
-
-</div>
-
-<br>
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdzcmVuOXF2NjJ4NmN1dGlzazFkMW1sN3R5cTBhNHplbzBkZHJpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
-
-### About Me
-
-- 💼 Former Data Science Intern @ [Bitdefender](https://github.com/bitdefender) — NLP, embeddings, uplift modelling, causal inference
-- 🌱 Focused on backend systems, LLM integration, and applied machine learning
-- 📫 laurentiu.cristian.preda@gmail.com
-- 🌐 [criseda.com](https://criseda.com)
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://criseda.com"><img src="https://img.shields.io/badge/criseda.com-171217?style=for-the-badge&logo=googlechrome&logoColor=D897C4" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/criseda"><img src="https://img.shields.io/badge/linkedin-171217?style=for-the-badge&logo=linkedin&logoColor=D897C4" alt="LinkedIn" /></a>
+  <a href="mailto:laurentiu.cristian.preda@gmail.com"><img src="https://img.shields.io/badge/email-171217?style=for-the-badge&logo=gmail&logoColor=D897C4" alt="Email" /></a>
+</p>
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Languages**
+**now**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+backend systems, llm integration, applied ml. mostly python, sometimes rust when i want to suffer properly.
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Frameworks & Libraries**
+**before**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Databases, Cloud & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+data science intern at bitdefender. nlp, embeddings, uplift modelling and causal inference on real user data.
 
 </td>
 </tr>
 </table>
 
----
+## lofi station
 
-### 🚀 Featured Project — Lofi Station
+<table>
+<tr>
+<td width="64%" valign="top">
 
-> A full-stack generative music platform producing structured 44-bar, multi-track lofi compositions via probabilistic modelling and weighted Markov transitions across 267 curated chord progressions. Renders downloadable 44.1kHz WAV files in under 12 seconds, backed by a production FastAPI service with JWT/Google auth, PostgreSQL persistence, and rate limiting — 500+ generation jobs served.
+a generator that writes **44-bar, multi-track lofi** from scratch and hands you a wav.
 
-**[🎧 Try the live demo →](https://criseda.com/projects/lofi-station)**
+```
+chords    weighted markov walk over 267 hand-picked progressions
+render    44.1khz wav in < 12s
+backend   fastapi · jwt + google auth · postgres · rate limiting
+served    500+ tracks
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+**[→ make a track](https://criseda.com/projects/lofi-station)**
 
----
+</td>
+<td width="36%" valign="top" align="center">
 
-### 📊 GitHub Stats
+<br>
 
-<div align="center">
+![Python](https://img.shields.io/badge/python-171217?style=flat-square&logo=python&logoColor=D897C4)
+![FastAPI](https://img.shields.io/badge/fastapi-171217?style=flat-square&logo=fastapi&logoColor=D897C4)
+![PostgreSQL](https://img.shields.io/badge/postgres-171217?style=flat-square&logo=postgresql&logoColor=D897C4)
+![NumPy](https://img.shields.io/badge/numpy-171217?style=flat-square&logo=numpy&logoColor=D897C4)
+![SciPy](https://img.shields.io/badge/scipy-171217?style=flat-square&logo=scipy&logoColor=D897C4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&theme=dracula&hide_border=false" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criseda&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="165" alt="languages graph" />
+</td>
+</tr>
+</table>
 
-</div>
+## stack
 
----
+<table>
+<tr>
+<td align="center" width="33%"><sub>languages</sub><br><br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,ts&perline=3" alt="Python, Java, C, C++, Rust, TypeScript" />
+</td>
+<td align="center" width="33%"><sub>frameworks</sub><br><br>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,spring&perline=3" alt="FastAPI, React, Next.js, Node.js, Spring" />
+</td>
+<td align="center" width="33%"><sub>data & infra</sub><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,azure&perline=3" alt="PostgreSQL, MySQL, MongoDB, Docker, Azure" />
+</td>
+</tr>
+</table>
 
-### 📫 Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:laurentiu.cristian.preda@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/criseda)
-[![Website](https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=800080&logoColor=white&style=for-the-badge)](https://criseda.com)
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=171217&title_color=D897C4&icon_color=D897C4&text_color=F2EDF0&ring_color=D897C4&custom_title=commits%20%26%20stuff" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=criseda&hide_border=true&background=171217&ring=D897C4&fire=D897C4&currStreakLabel=D897C4&sideLabels=B2A9B1&currStreakNum=F2EDF0&sideNums=F2EDF0&dates=B2A9B1&stroke=3E323E" alt="GitHub streak" />
+</p>
