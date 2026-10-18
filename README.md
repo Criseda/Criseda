@@ -32,11 +32,7 @@ Data Science Intern at Bitdefender. NLP, embeddings, uplift modelling and causal
 
 ## Lofi Station
 
-<table>
-<tr>
-<td width="64%" valign="top">
-
-A generator that writes **44-bar, multi-track lofi** from scratch and hands you a WAV.
+A generator that writes **44-bar, multi-track lofi** from scratch and hands you a WAV. **[→ Make a track](https://criseda.com/projects/lofi-station)**
 
 ```
 Chords    Weighted Markov walk over 267 hand-picked progressions
@@ -45,43 +41,24 @@ Backend   FastAPI · JWT + Google auth · PostgreSQL · rate limiting
 Served    500+ tracks
 ```
 
-**[→ Make a track](https://criseda.com/projects/lofi-station)**
-
-</td>
-<td width="36%" valign="top" align="center">
-
-<br>
-
 ![Python](https://img.shields.io/badge/Python-D897C4?style=flat-square&logo=python&logoColor=221C22)
 ![FastAPI](https://img.shields.io/badge/FastAPI-D897C4?style=flat-square&logo=fastapi&logoColor=221C22)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D897C4?style=flat-square&logo=postgresql&logoColor=221C22)
 ![NumPy](https://img.shields.io/badge/NumPy-D897C4?style=flat-square&logo=numpy&logoColor=221C22)
 ![SciPy](https://img.shields.io/badge/SciPy-D897C4?style=flat-square&logo=scipy&logoColor=221C22)
 
-</td>
-</tr>
-</table>
-
 ## Stack
 
-<table>
-<tr>
-<td align="center" width="33%"><sub>Languages</sub><br><br>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,ts&perline=3" alt="Python, Java, C, C++, Rust, TypeScript" />
-</td>
-<td align="center" width="33%"><sub>Frameworks</sub><br><br>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,spring&perline=3" alt="FastAPI, React, Next.js, Node.js, Spring" />
-</td>
-<td align="center" width="33%"><sub>Data & Infra</sub><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,azure&perline=3" alt="PostgreSQL, MySQL, MongoDB, Docker, Azure" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,ts,fastapi,react,nextjs,nodejs,spring,postgres,mysql,mongodb,docker,azure&perline=8" alt="Python, Java, C, C++, Rust, TypeScript, FastAPI, React, Next.js, Node.js, Spring, PostgreSQL, MySQL, MongoDB, Docker, Azure" />
+</p>
+
+## Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=00000000&title_color=D897C4&icon_color=D897C4&text_color=F2EDF0&ring_color=D897C4&custom_title=Commits%20%26%20Stuff" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=00000000&title_color=82356E&icon_color=82356E&text_color=221C22&ring_color=82356E&custom_title=Commits%20%26%20Stuff" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=00000000&title_color=D897C4&icon_color=D897C4&text_color=F2EDF0&ring_color=D897C4&custom_title=GitHub%20Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=00000000&title_color=82356E&icon_color=82356E&text_color=221C22&ring_color=82356E&custom_title=GitHub%20Stats" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=criseda&hide_border=true&background=00000000&ring=D897C4&fire=D897C4&currStreakLabel=D897C4&sideLabels=B2A9B1&currStreakNum=F2EDF0&sideNums=F2EDF0&dates=B2A9B1&stroke=3E323E" />
