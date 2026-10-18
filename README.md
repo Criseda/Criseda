@@ -11,7 +11,7 @@
 
 **Now**
 
-Backend systems, LLM integration, applied ML. Mostly Python, sometimes Rust when I want to suffer properly.
+Backend systems, LLM integration, applied ML.
 
 </td>
 <td width="50%" valign="top">
