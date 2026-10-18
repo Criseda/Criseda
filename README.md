@@ -1,11 +1,14 @@
 <a href="https://criseda.com">
-  <img width="100%" src="assets/header.svg" alt="cristian preda: backend · llms · applied ml" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <img width="100%" src="assets/header-light.svg" alt="cristian preda: backend · llms · applied ml" />
+  </picture>
 </a>
 
 <p align="center">
-  <a href="https://criseda.com"><img src="https://img.shields.io/badge/criseda.com-171217?style=for-the-badge&logo=googlechrome&logoColor=D897C4" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/criseda"><img src="https://img.shields.io/badge/linkedin-171217?style=for-the-badge&logo=linkedin&logoColor=D897C4" alt="LinkedIn" /></a>
-  <a href="mailto:laurentiu.cristian.preda@gmail.com"><img src="https://img.shields.io/badge/email-171217?style=for-the-badge&logo=gmail&logoColor=D897C4" alt="Email" /></a>
+  <a href="https://criseda.com"><img src="https://img.shields.io/badge/criseda.com-D897C4?style=for-the-badge&logo=googlechrome&logoColor=221C22" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/criseda"><img src="https://img.shields.io/badge/linkedin-D897C4?style=for-the-badge&logo=linkedin&logoColor=221C22" alt="LinkedIn" /></a>
+  <a href="mailto:laurentiu.cristian.preda@gmail.com"><img src="https://img.shields.io/badge/email-D897C4?style=for-the-badge&logo=gmail&logoColor=221C22" alt="Email" /></a>
 </p>
 
 <table>
@@ -49,11 +52,11 @@ served    500+ tracks
 
 <br>
 
-![Python](https://img.shields.io/badge/python-171217?style=flat-square&logo=python&logoColor=D897C4)
-![FastAPI](https://img.shields.io/badge/fastapi-171217?style=flat-square&logo=fastapi&logoColor=D897C4)
-![PostgreSQL](https://img.shields.io/badge/postgres-171217?style=flat-square&logo=postgresql&logoColor=D897C4)
-![NumPy](https://img.shields.io/badge/numpy-171217?style=flat-square&logo=numpy&logoColor=D897C4)
-![SciPy](https://img.shields.io/badge/scipy-171217?style=flat-square&logo=scipy&logoColor=D897C4)
+![Python](https://img.shields.io/badge/python-D897C4?style=flat-square&logo=python&logoColor=221C22)
+![FastAPI](https://img.shields.io/badge/fastapi-D897C4?style=flat-square&logo=fastapi&logoColor=221C22)
+![PostgreSQL](https://img.shields.io/badge/postgres-D897C4?style=flat-square&logo=postgresql&logoColor=221C22)
+![NumPy](https://img.shields.io/badge/numpy-D897C4?style=flat-square&logo=numpy&logoColor=221C22)
+![SciPy](https://img.shields.io/badge/scipy-D897C4?style=flat-square&logo=scipy&logoColor=221C22)
 
 </td>
 </tr>
@@ -76,6 +79,12 @@ served    500+ tracks
 </table>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=171217&title_color=D897C4&icon_color=D897C4&text_color=F2EDF0&ring_color=D897C4&custom_title=commits%20%26%20stuff" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=criseda&hide_border=true&background=171217&ring=D897C4&fire=D897C4&currStreakLabel=D897C4&sideLabels=B2A9B1&currStreakNum=F2EDF0&sideNums=F2EDF0&dates=B2A9B1&stroke=3E323E" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=00000000&title_color=D897C4&icon_color=D897C4&text_color=F2EDF0&ring_color=D897C4&custom_title=commits%20%26%20stuff" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=criseda&show_icons=true&hide_border=true&bg_color=00000000&title_color=82356E&icon_color=82356E&text_color=221C22&ring_color=82356E&custom_title=commits%20%26%20stuff" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=criseda&hide_border=true&background=00000000&ring=D897C4&fire=D897C4&currStreakLabel=D897C4&sideLabels=B2A9B1&currStreakNum=F2EDF0&sideNums=F2EDF0&dates=B2A9B1&stroke=3E323E" />
+    <img height="160" src="https://streak-stats.demolab.com?user=criseda&hide_border=true&background=00000000&ring=82356E&fire=82356E&currStreakLabel=82356E&sideLabels=665C66&currStreakNum=221C22&sideNums=221C22&dates=665C66&stroke=DDD4DA" alt="GitHub streak" />
+  </picture>
 </p>

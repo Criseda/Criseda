@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Cristian Preda: backend, LLMs, applied ML">
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace; }
-    .b { fill: #D897C4; transform-box: fill-box; transform-origin: bottom; animation-name: eq; animation-iteration-count: infinite; animation-direction: alternate; animation-timing-function: ease-in-out; }
+    .b { fill: #82356E; transform-box: fill-box; transform-origin: bottom; animation-name: eq; animation-iteration-count: infinite; animation-direction: alternate; animation-timing-function: ease-in-out; }
     @keyframes eq { from { transform: scaleY(var(--lo)); } to { transform: scaleY(1); } }
     .fill { transform-box: fill-box; transform-origin: left; animation: play 14s linear infinite; }
     .head { animation: head 14s linear infinite; }
@@ -10,13 +10,11 @@
     .cursor { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect width="1200" height="280" rx="14" fill="#171217"/>
-  <rect x="0.5" y="0.5" width="1199" height="279" rx="14" fill="none" stroke="#3E323E"/>
 
-  <text x="64" y="62" class="mono" font-size="15" fill="#B2A9B1">~/criseda $ whoami</text>
-  <text x="62" y="128" class="mono" font-size="56" font-weight="700" fill="#F2EDF0">cristian preda<tspan class="cursor" fill="#D897C4">_</tspan></text>
-  <text x="64" y="170" class="mono" font-size="19" fill="#D897C4">backend · llms · applied ml</text>
-  <text x="64" y="198" class="mono" font-size="15" fill="#B2A9B1">cs @ university of manchester · ex-bitdefender</text>
+  <text x="64" y="62" class="mono" font-size="15" fill="#665C66">~/criseda $ whoami</text>
+  <text x="62" y="128" class="mono" font-size="56" font-weight="700" fill="#221C22">cristian preda<tspan class="cursor" fill="#82356E">_</tspan></text>
+  <text x="64" y="170" class="mono" font-size="19" fill="#82356E">backend · llms · applied ml</text>
+  <text x="64" y="198" class="mono" font-size="15" fill="#665C66">cs graduate · university of manchester · ex-bitdefender</text>
 
   <g>
     <rect class="b" x="740" y="86" width="10" height="110" rx="2" style="animation-duration:0.99s;animation-delay:-0.24s;--lo:0.31"/>
@@ -46,10 +44,10 @@
     <rect class="b" x="1124" y="86" width="10" height="110" rx="2" style="animation-duration:1.28s;animation-delay:-1.59s;--lo:0.36"/>
     <rect class="b" x="1140" y="86" width="10" height="110" rx="2" style="animation-duration:0.96s;animation-delay:-0.62s;--lo:0.32"/>
   </g>
-  <line x1="736" y1="197" x2="1150" y2="197" stroke="#3E323E" stroke-width="2"/>
+  <line x1="736" y1="197" x2="1150" y2="197" stroke="#DDD4DA" stroke-width="2"/>
 
-  <text x="64" y="244" class="mono" font-size="13" fill="#B2A9B1">▶ now playing: <tspan fill="#F2EDF0">lofi_station/track_044.wav</tspan></text>
-  <rect x="736" y="236" width="420" height="3" rx="1.5" fill="#3E323E"/>
-  <rect class="fill" x="736" y="236" width="420" height="3" rx="1.5" fill="#D897C4"/>
-  <circle class="head" cx="736" cy="237.5" r="6" fill="#F2EDF0"/>
+  <text x="64" y="244" class="mono" font-size="13" fill="#665C66">▶ now playing: <tspan fill="#221C22">lofi_station/track_044.wav</tspan></text>
+  <rect x="736" y="236" width="420" height="3" rx="1.5" fill="#DDD4DA"/>
+  <rect class="fill" x="736" y="236" width="420" height="3" rx="1.5" fill="#82356E"/>
+  <circle class="head" cx="736" cy="237.5" r="6" fill="#221C22"/>
 </svg>
